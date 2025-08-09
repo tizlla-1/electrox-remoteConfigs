@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "title": "Play our new game!",
+  "iconUrl": "https://<username>.github.io/<repo>/promo.png",
+  "linkUrl": "https://example.com"
+}
