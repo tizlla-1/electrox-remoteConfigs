@@ -1,6 +1,6 @@
 {
   "enabled": true,
   "title": "Play our new game!",
-  "iconUrl": "https://<username>.github.io/<repo>/promo.png",
-  "linkUrl": "https://example.com"
+  "iconUrl": "https://github.com/tizlla-1/electrox-remoteConfigs/blob/main/docs/promo.png",
+  "linkUrl": "https://tizlla.com"
 }
